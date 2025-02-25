@@ -31,7 +31,7 @@ This project explores machine learning algorithms to predict coronary heart dise
 - Data Standardization
 - Data Split: 80% for training and 20% for testing
 - Base Model: Logistic Regression (with Ridge Penalty)
-- - Evaluated using **accuracy, precision, recall, and F1-score**
+- Evaluated using **accuracy, precision, recall, and F1-score**
 
 - Compared with 9 other machine learning models
   - Support Vector Machine (SVM)
