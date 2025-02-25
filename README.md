@@ -73,6 +73,6 @@ This project explores machine learning algorithms to predict coronary heart dise
 ## Limitations & Future Work
 - **Class imbalance** (65% `0`, 35% `1`) could be addressed with resampling techniques.
 - **Dataset size** (462 observations) is small; collecting more data could improve model reliability.
-- **Feature engineering** (e.g., polynomial features, interactions) might enhance performance.
+
 
 
